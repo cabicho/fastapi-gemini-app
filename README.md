@@ -4,6 +4,15 @@
     
     **FastAPI** will serve as your web API to interact with the AI models.
 
+* **3. Defining Dependencies (requirements.txt):**
+```
+  * fastapi Sub-item 1.1 # fastapi: The web framework.
+  * uvicorn
+  * google-cloud-aiplatform
+  * python-dotenv
+  * pydantic
+```
+
 **3. Defining Dependencies (requirements.txt):**
 ```
 fastapi
