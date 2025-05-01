@@ -19,6 +19,15 @@ google-cloud-aiplatform: Google Cloud AI Platform SDK to interact with Gemini.
 python-dotenv: To manage environment variables.
 pydantic: Data validation and serialization.
 `
+* **Install these dependencies:** - Main Item 1
+  * ````
+    Bash
+
+    pip install -r requirements.txt
+````
+  * Sub-item 1.2
+
+
 **Install these dependencies:**
 ````
 Bash
