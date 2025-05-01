@@ -12,6 +12,7 @@ google-cloud-aiplatform
 python-dotenv
 pydantic
 ```
+
 fastapi: The web framework.
 uvicorn: ASGI server to run FastAPI.
 google-cloud-aiplatform: Google Cloud AI Platform SDK to interact with Gemini.
@@ -24,3 +25,11 @@ Bash
 
 pip install -r requirements.txt
 ````
+
+* Main Item 1
+  * Sub-item 1.1
+  * Sub-item 1.2
+* Main Item 2
+  - Sub-item 2.1
+    - Sub-sub-item 2.1.1
+* Main Item 3
