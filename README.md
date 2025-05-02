@@ -1,8 +1,30 @@
-** # fastapi-gemini-app **
+```
+[//]: # (Your comment goes here)** # fastapi-gemini-app **
 **create a project that integrates: **
     Docker, Gemini AI models, general AI functionalities, and the FastAPI framework. 
     
     **FastAPI** will serve as your web API to interact with the AI models.
+```
+* **1. Setting up your Development Environment:**
+```
+  * Install Python: Ensure you have Python 3.7+ installed.
+  * Install pip: Python's package installer.
+```
+
+
+* **2. Project Structure:**
+A typical project structure might look like this:
+```
+  fastapi-gemini-app/
+├── app/
+│   ├── main.py         # FastAPI application logic
+│   ├── models/         # Data models (Pydantic)
+│   └── ai/             # AI integration logic
+│       └── gemini_service.py
+├── Dockerfile        # Docker configuration
+├── requirements.txt  # Python dependencies
+└── .env              # Environment variables (for local development)
+```
 
 * **3. Defining Dependencies (requirements.txt):**
 ```
