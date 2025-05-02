@@ -59,17 +59,8 @@ pydantic: Data validation and serialization.
     Bash
 
     pip install -r requirements.txt
-````
-  * Sub-item 1.2
-
-
-**Install these dependencies:**
-````
-Bash
-
-pip install -r requirements.txt
-````
-
+  ````
+  
 * Main Item 1
   * Sub-item 1.1
   * Sub-item 1.2
