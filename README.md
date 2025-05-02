@@ -1,5 +1,5 @@
-```
 [//]: # (Your comment goes here)** # fastapi-gemini-app **
+```
 **create a project that integrates: **
     Docker, Gemini AI models, general AI functionalities, and the FastAPI framework. 
     
@@ -45,9 +45,13 @@ pydantic
 ```
 
 fastapi: The web framework.
+
 uvicorn: ASGI server to run FastAPI.
+
 google-cloud-aiplatform: Google Cloud AI Platform SDK to interact with Gemini.
+
 python-dotenv: To manage environment variables.
+
 pydantic: Data validation and serialization.
 `
 * **Install these dependencies:** - Main Item 1
