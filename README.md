@@ -54,7 +54,7 @@ python-dotenv: To manage environment variables.
 
 pydantic: Data validation and serialization.
 `
-* **Install these dependencies:** - Main Item 1
+* **Install these dependencies:** 
   * ````
     Bash
 
